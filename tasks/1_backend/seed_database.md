@@ -1,4 +1,1 @@
-# Seed The Database
-
-- [ ] Download the JSON files in this repository:
-- [ ] For each file, create a collection and import data
+mongodb+srv://rajs950157_db_user:<db_password>@cluster0.p2ydlgx.mongodb.net/?appName=Cluster0
